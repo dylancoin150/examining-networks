@@ -1,4 +1,4 @@
-<h1>Examining Networks Using an Azure Virtual Machine (Windows)</h1>
+<h1>Analyzing Networks Using an Azure Virtual Machine (Windows)</h1>
 This tutorial outlines setting up an Azure Virtual Machine and using Command Prompt to examine different aspects of networking within an environment.<br />
 
 <h2>Environments and Technologies Used</h2>
