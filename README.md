@@ -1,5 +1,5 @@
 <p align="center">
-![Azure Logo](https://github.com/dylancoin150/examining-networks/assets/159479498/c448ee6a-d4ad-4fb2-83d5-0a78a4f64562)
+<img src=https://www.appdynamics.com/c/r/appdynamics/solutions/azure-monitoring/index/jcr:content/Title/blade_copy_172843868/bladeContents1/image/image.img.png/1670878360555.png>
 </p>
 
 <h1>Analyzing Networks Using an Azure Virtual Machine (Windows)</h1>
